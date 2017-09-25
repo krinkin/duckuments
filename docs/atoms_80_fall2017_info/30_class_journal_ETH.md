@@ -40,9 +40,7 @@ Comment: TA: Write here the FAQs that students have.
 
 
 
-## Sep 2?: Onboarding instructions {status=draft}
-
-Note: this is a draft. Don't read it yet!
+## Sep 2?: Onboarding instructions
 
 Assigned: Dzenan Lapandic
 
@@ -55,9 +53,28 @@ Here is a copy of the message we sent by email:
 The next step for the students is to do the onboarding
 instructions in [](#first-steps-for-students).
 
+### Material presented in class
+
+The slides we showed:
+
+- Autonomy overview
+- Autonomous mobility on demand
+- Plan / logistics
+- Modern robotic systems
+
 ### Pointers to reading materials
 
 TODO:
+
+### Questions and answers
+
+Q: How big are groups going to be?
+
+A:
+
+Q: What is the level of the class?
+
+A:
 
 
 ## Mon Sep 2?: Lecture on system architectures {status=draft}
